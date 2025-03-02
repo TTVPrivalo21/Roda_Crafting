@@ -1,4 +1,4 @@
-# 📌 Sistema de Crafteo para Gangs en FiveM
+# 📌 Sistema de Crafteo para Gangs en FiveM ESX
 
 ## 📖 Descripción
 Este sistema permite a los jugadores craftear objetos en mesas de crafteo exclusivas para cada gang. 
@@ -92,7 +92,7 @@ end)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-# 📌 FiveM Gang Crafting System
+# 📌 FiveM Gang Crafting System ESX
 
 ## 📖 Description
 This system allows players to craft items at gang-specific crafting benches. 
